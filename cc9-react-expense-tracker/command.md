@@ -1,0 +1,3 @@
+- `git pull` คล้าย clone แต่ดึงข้อมูลมาจาก git แค่บางส่วน
+- `npm i react-router-dom`
+- `npm i validator` สำหรับการตรวจสอบข้อมูลที่ส่งมา
